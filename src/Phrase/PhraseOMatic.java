@@ -1,4 +1,4 @@
-package com.gmail.alexdii;
+package Phrase;
 
 public class PhraseOMatic {
     public static void main(String[] args) {
